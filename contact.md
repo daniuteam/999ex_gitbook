@@ -11,4 +11,4 @@ description: 业务合作、商务咨询可联系电报
 * Twitter: [https://twitter.com/999exTool](https://twitter.com/999exTool)
 * Youtuble：[https://www.youtube.com/@999exTool](https://www.youtube.com/@999exTool)
 
-如果您想与我们达成商业合作，或有其他想法、意见，请联系我们的邮箱：contactpandatool@gmail.com
+如果您想与我们达成商业合作，或有其他想法、意见，请联系我们的邮箱：service@999ex.io
