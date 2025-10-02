@@ -1,0 +1,11 @@
+{
+  "title": "PandaTool帮助文档",
+  "description": "PandaTool一键发币工具完整使用指南",
+  "author": "PandaTool Team",
+  "language": "zh-hans",
+  "gitbook": "4.0.0",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}

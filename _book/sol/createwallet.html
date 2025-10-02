@@ -1,0 +1,678 @@
+
+<!DOCTYPE HTML>
+<html lang="zh-hans" >
+    <head>
+        <meta charset="UTF-8">
+        <title>Solana批量生成钱包地址 · PandaTool帮助文档</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="批量生成钱包，方便操作">
+        <meta name="generator" content="HonKit 3.7.5">
+        <meta name="author" content="PandaTool Team">
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/@honkit/honkit-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="phantom.html" />
+    
+    
+    <link rel="prev" href="burn.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book honkit-cloak">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="输入并搜索" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    999EXTool一键发币
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../contact.html">
+            
+                <a href="../contact.html">
+            
+                    
+                    联系我们
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../price.html">
+            
+                <a href="../price.html">
+            
+                    
+                    服务费用
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Sol链发币</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="stardand.html">
+            
+                <a href="stardand.html">
+            
+                    
+                    Solana一键发币教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2" data-path="createpump.html">
+            
+                <a href="createpump.html">
+            
+                    
+                    PUMP发币与捆绑买入教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3" data-path="swapbot.html">
+            
+                <a href="swapbot.html">
+            
+                    
+                    Solana市值管理机器人教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.4" data-path="market.html">
+            
+                <a href="market.html">
+            
+                    
+                    OpenBook市场ID低成本创建教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5" data-path="swapbotpump.html">
+            
+                <a href="swapbotpump.html">
+            
+                    
+                    pump.fun市值管理机器人教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.6" data-path="control.html">
+            
+                <a href="control.html">
+            
+                    
+                    Solana权限管理(增发、冻结、弃权）
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.7" data-path="upload.html">
+            
+                <a href="upload.html">
+            
+                    
+                    Solana更新代币资料
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.8" data-path="batch-transfer.html">
+            
+                <a href="batch-transfer.html">
+            
+                    
+                    Solana批量空投教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.9" data-path="gather.html">
+            
+                <a href="gather.html">
+            
+                    
+                    Solana批量归集教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.10" data-path="burn.html">
+            
+                <a href="burn.html">
+            
+                    
+                    SOL烧池子/锁池教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="2.11" data-path="createwallet.html">
+            
+                <a href="createwallet.html">
+            
+                    
+                    Solana批量生成钱包地址
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.12" data-path="phantom.html">
+            
+                <a href="phantom.html">
+            
+                    
+                    幻影钱包Phantom安装教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.13" data-path="raydium/">
+            
+                <a href="raydium/">
+            
+                    
+                    Raydium V3加池子教程
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.13.1" data-path="raydium/raydium-v2.html">
+            
+                <a href="raydium/raydium-v2.html">
+            
+                    
+                    Raydium V2加池子教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.13.2" data-path="raydium/orca.html">
+            
+                <a href="raydium/orca.html">
+            
+                    
+                    Orca加池子/撤池子教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.13.3" data-path="raydium/meteora.html">
+            
+                <a href="raydium/meteora.html">
+            
+                    
+                    Meteora加池子/撤池子教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+        
+        <li class="header">常见问题</li>
+        
+        
+    
+        <li class="chapter " data-level="3.1" data-path="../question/addlp.html">
+            
+                <a href="../question/addlp.html">
+            
+                    
+                    PancakeSwap薄饼加池/撤池教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.2" data-path="../question/ave.html">
+            
+                <a href="../question/ave.html">
+            
+                    
+                    Ave检测怎么才能全绿？
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3" data-path="../question/logo.html">
+            
+                <a href="../question/logo.html">
+            
+                    
+                    代币怎么上头像logo？
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.4" data-path="../question/lock.html">
+            
+                <a href="../question/lock.html">
+            
+                    
+                    如何锁仓与锁池？
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.5" data-path="../question/swap.html">
+            
+                <a href="../question/swap.html">
+            
+                    
+                    V2和V3的池子差异？
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.6" data-path="../question/uniswapv2.html">
+            
+                <a href="../question/uniswapv2.html">
+            
+                    
+                    Uniswap V2创建流动性教程(加池教程)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.7" data-path="../question/uniswap.html">
+            
+                <a href="../question/uniswap.html">
+            
+                    
+                    Uniswap V3怎么加池子？
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">相关声明</li>
+        
+        
+    
+        <li class="chapter " data-level="4.1" data-path="../declaration/terms-of-service.html">
+            
+                <a href="../declaration/terms-of-service.html">
+            
+                    
+                    服务条款
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2" data-path="../declaration/disclaimer.html">
+            
+                <a href="../declaration/disclaimer.html">
+            
+                    
+                    免责声明
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://github.com/honkit/honkit" target="blank" class="gitbook-link">
+            本书使用 HonKit 发布
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >Solana批量生成钱包地址</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="solana批量生成钱包地址">Solana批量生成钱包地址</h1>
+<p>手动批量生成多个Solana钱包是非常耗费时间的，尤其是备份助记词和输入助记词的过程。 </p>
+<p>为此，PandaTool开发了批量生成Sol钱包的工具，只需输入你想要生成的钱包数量，即可轻松获得钱包地址、私钥等信息，并且这一过程是本地实现，因此保证了敏感信息的安全性。</p>
+<figure><img src="../.gitbook/assets/批量生成sol钱包.jpg" alt><figcaption></figcaption></figure>
+
+<h2 id="sol批量生成钱包教程">Sol批量生成钱包教程</h2>
+<p>首先，我们打开创建工具的页面：<a href="https://solana.999ex.io/createwallet" target="_blank">https://solana.999ex.io/createwallet</a>输入框内填入要生成的前地址数量，点击生成钱包，即可完成操作</p>
+<figure><img src="../.gitbook/assets/批量生成钱包教程1.png" alt><figcaption></figcaption></figure>
+
+<p>此时，在下方的位置会出现钱包的地址与私钥，将其复制下来即可（点击就能复制）</p>
+<figure><img src="../.gitbook/assets/教程2.png" alt><figcaption><p>点击就能复制</p></figcaption></figure>
+
+<p>此外，PandaTool批量生成Solana钱包工具也支持钱包信息一键导出（CSV文件），对于多钱包多地址管理十分便捷。</p>
+<p>当我们下载了csv文件之后，打开方式选择txt记事本</p>
+<figure><img src="../.gitbook/assets/批量生成钱包打开方式 (1).png" alt><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/导出私钥.png" alt><figcaption></figcaption></figure>
+
+<h2 id="疑问解答">疑问解答</h2>
+<h4 id="1、该工具需要收费吗？">1、该工具需要收费吗？</h4>
+<ul>
+<li><strong>答：</strong>批量生成钱包地址属于公益性质，不收取费用</li>
+</ul>
+<h4 id="2、如何保证安全性？">2、如何保证安全性？</h4>
+<ul>
+<li><strong>答：</strong>钱包创建之前，请断开网络，以确保数据不会传输到网上。生成的钱包地址仅作为临时钱包使用，用完即丢，不要存入核心资产就行</li>
+</ul>
+<p>如有不明白或者不清楚的地方，请加入官方电报群：<a href="https://t.me/tool999ex" target="_blank">@VIP999ex_tool</a></p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="burn.html" class="navigation navigation-prev " aria-label="Previous page: SOL烧池子/锁池教程">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="phantom.html" class="navigation navigation-next " aria-label="Next page: 幻影钱包Phantom安装教程">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"description":"批量生成钱包，方便操作","title":"Solana批量生成钱包地址","level":"2.11","depth":1,"next":{"title":"幻影钱包Phantom安装教程","level":"2.12","depth":1,"path":"sol/phantom.md","ref":"sol/phantom.md","articles":[]},"previous":{"title":"SOL烧池子/锁池教程","level":"2.10","depth":1,"path":"sol/burn.md","ref":"sol/burn.md","articles":[]},"dir":"ltr"},"config":{"plugins":["livereload"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"PandaTool Team","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"PandaTool帮助文档","language":"zh-hans","gitbook":"4.0.0","description":"PandaTool一键发币工具完整使用指南"},"file":{"path":"sol/createwallet.md","mtime":"2025-09-30T18:02:45.075Z","type":"markdown"},"gitbook":{"version":"3.7.5","time":"2025-10-01T11:40:03.330Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <noscript>
+        <style>
+            .honkit-cloak {
+                display: block !important;
+            }
+        </style>
+    </noscript>
+    <script>
+        // Restore sidebar state as critical path for prevent layout shift
+        function __init__getSidebarState(defaultValue){
+            var baseKey = "";
+            var key = baseKey + ":sidebar";
+            try {
+                var value = localStorage[key];
+                if (value === undefined) {
+                    return defaultValue;
+                }
+                var parsed = JSON.parse(value);
+                return parsed == null ? defaultValue : parsed;
+            } catch (e) {
+                return defaultValue;
+            }
+        }
+        function __init__restoreLastSidebarState() {
+            var isMobile = window.matchMedia("(max-width: 600px)").matches;
+            if (isMobile) {
+                // Init last state if not mobile
+                return;
+            }
+            var sidebarState = __init__getSidebarState(true);
+            var book = document.querySelector(".book");
+            // Show sidebar if it enabled
+            if (sidebarState && book) {
+                book.classList.add("without-animation", "with-summary");
+            }
+        }
+
+        try {
+            __init__restoreLastSidebarState();
+        } finally {
+            var book = document.querySelector(".book");
+            book.classList.remove("honkit-cloak");
+        }
+    </script>
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+

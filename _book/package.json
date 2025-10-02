@@ -1,0 +1,38 @@
+{
+  "name": "pandatool-help-docs",
+  "version": "1.0.0",
+  "description": "PandaTool帮助文档 - 一键发币工具使用指南",
+  "main": "index.js",
+  "scripts": {
+    "serve": "honkit serve",
+    "build": "honkit build",
+    "pdf": "honkit pdf . ./_book/pandatool-help-docs.pdf",
+    "epub": "honkit epub . ./_book/pandatool-help-docs.epub",
+    "mobi": "honkit mobi . ./_book/pandatool-help-docs.mobi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaogong233a/999EXTool.git"
+  },
+  "keywords": [
+    "pandatool",
+    "cryptocurrency",
+    "token-creation",
+    "defi",
+    "blockchain",
+    "solana",
+    "ton",
+    "sui",
+    "tron",
+    "documentation",
+    "gitbook"
+  ],
+  "author": "PandaTool Team",
+  "license": "MIT",
+  "devDependencies": {
+    "honkit": "^3.7.5"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
