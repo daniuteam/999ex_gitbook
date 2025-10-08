@@ -14,7 +14,7 @@ description: 基于Solana的最全一键发币教程
 
 ### 1、连接幻影钱包Phantom Wallet
 
-首先，我们打开发币链接：[https://solana.999ex.io/](https://solana.999ex.io/)，点击右上角“选择钱包”
+首先，我们打开发币链接：[https://www.999ex.io/create](https://www.999ex.io/create)，点击右上角“选择钱包”
 
 <figure><img src="../.gitbook/assets/选择钱包 (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -78,7 +78,7 @@ description: 基于Solana的最全一键发币教程
 此时，代币就算是基本创建完成了，大家可以根据需求去做池子，然后就能交易了。
 
 * Raydium加池教程：[https://help.999ex.io/sol/raydium](https://help.999ex.io/sol/raydium)
-* 创建稳定池CLMM教程：[https://help.999ex.io/sol/clmm](https://help.999ex.io/sol/clmm)
+* 创建稳定池CLMM教程：[https://help.999ex.io/sol/solana-chuang-jian-raydium-clmm-wen-ding-chi-jiao-cheng](https://help.999ex.io/sol/solana-chuang-jian-raydium-clmm-wen-ding-chi-jiao-cheng)
 
 ## 疑问解答
 
@@ -104,7 +104,7 @@ description: 基于Solana的最全一键发币教程
 
 **6、发币之后需要丢弃权限吗？怎么丢？**
 
-* **答：**我建议大家发币之后将权限丢弃，可以在此处丢权限：[https://solana.999ex.io/control](https://solana.999ex.io/control)
+* **答：**我建议大家发币之后将权限丢弃，可以在此处丢权限：[https://www.999ex.io/control](https://www.999ex.io/control)
 
 **7、其他问题**
 
