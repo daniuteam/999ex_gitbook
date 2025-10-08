@@ -91,7 +91,7 @@
 
 正如前面的教程所述，采用CPMM的资金池，更为便利，也更加便宜。接下来，给大家详细阐述一下CPMM资金池的创建流程
 
-首先，我们打开[流动性创建](https://solana.999ex.io/createpool)工具，选择Raydium CPMM
+首先，我们打开[流动性创建](https://999ex.io/createpool)工具，选择Raydium CPMM
 
 <figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FvJ6BT2iJK6EWv9ZWEOrS%2FCPMM%E5%81%9A%E6%B1%A0%E5%AD%90.png?alt=media&#x26;token=e2a9ec53-0a14-42d4-b1d6-d61d8812ea9c" alt=""><figcaption></figcaption></figure>
 
