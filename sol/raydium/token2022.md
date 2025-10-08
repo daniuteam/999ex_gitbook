@@ -46,7 +46,7 @@
 
 钱包连接成功后，右上角可以看到钱包地址。如果您没有安装Phantom钱包，也可以查看安装教程：<https://help.999ex.io/sol/phantom>
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FHPsyDH4msIeIUAAvrPyR%2F4%E8%BF%9E%E6%8E%A5%E6%88%90%E5%8A%9F.png?alt=media&#x26;token=f6bc4f75-e0d7-4a2c-9bec-3183f63cba93" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/token2022-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **2、填写代币参数（必填）**
 
