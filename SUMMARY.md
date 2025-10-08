@@ -7,7 +7,7 @@
 ## Sol链发币 <a href="#sol" id="sol"></a>
 
 * [Solana一键发币教程](sol/stardand.md)
-* [Solana创建税率代币TOken2022教程](sol/token2022.md)
+* [Solana创建税率代币TOken2022教程](sol/raydium/token2022.md)
 * [Solana提取手续费教程](sol/servicefee.md)
 * [Bonkfun一键发币与捆绑买入教程](sol/bonkfunfabi.md)
 * [Bonkfun批量交易/市值管理教程](sol/bonkfunshizhi.md)
@@ -34,7 +34,7 @@
 * [SOL销毁代币/烧池教程](sol/burn.md)
 * [Solana批量生成钱包地址](sol/createwallet.md)
 * [幻影钱包Phantom安装教程](sol/phantom.md)
-* [Raydium V3加池子教程](sol/raydium/README.md)
+* [Raydium 加池子教程](sol/raydium/README.md)
   * [Raydium V2加池子教程](sol/raydium/raydium-v2.md)
   * [Orca加池子/撤池子教程](sol/raydium/orca.md)
   * [Meteora加池子/撤池子教程](sol/raydium/meteora.md)
