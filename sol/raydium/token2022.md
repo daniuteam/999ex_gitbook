@@ -36,7 +36,7 @@
 
 首先，我们进入到999ex.io Tool的工具页面：<https://www.999ex.io/create2022>，然后点击右上角连接钱包
 
-<figure><img src="../.gitbook/assets/token2022-1" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/token2022-1.jpg" alt=""><figcaption></figcaption></figure>
 
 一般来说，会直接跳出Phantom进行连接。如果你没有安装Phantom钱包，OKX钱包、TP钱包也是可以的。（我们仍然点击Phantom即可，能直接识别到其他钱包）
 
