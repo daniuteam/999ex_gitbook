@@ -20,7 +20,7 @@
 
 ## **创建税率代币(Token2022)教程**
 
-步骤1：打开PandaTool并链接钱包
+步骤1：打开999ex.io Tool并链接钱包
 
 步骤2：填写代币基本参数
 
@@ -36,7 +36,7 @@
 
 首先，我们进入到999ex.io Tool的工具页面：<https://www.999ex.io/create2022>，然后点击右上角连接钱包
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FPbemSZY4jz8ybdwOumFk%2F1%E6%89%BE%E5%88%B0%E5%B7%A5%E5%85%B7%EF%BC%8C%E8%BF%9E%E6%8E%A5%E9%92%B1%E5%8C%85.png?alt=media&#x26;token=ce20895e-a31c-4ae7-8731-e882ce1ab123" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/token2022-1" alt=""><figcaption></figcaption></figure>
 
 一般来说，会直接跳出Phantom进行连接。如果你没有安装Phantom钱包，OKX钱包、TP钱包也是可以的。（我们仍然点击Phantom即可，能直接识别到其他钱包）
 
