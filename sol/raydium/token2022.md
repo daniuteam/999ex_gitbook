@@ -70,9 +70,9 @@
 **提税说明：**&#x624B;续费产生后，通常会累计在某个地方，等待提税地址去提取。
 {% endhint %}
 
-以下是我填写的参数，我发行了一个名为PandaToken的代币，数量1亿枚，税率10%，最大税收100
+以下是我填写的参数，我发行了一个名为999ex Token的代币，数量1亿枚，税率10%，最大税收100
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2F3YKuD167Y561lMNBizAr%2F6%E5%8F%82%E6%95%B0%E5%A1%AB%E5%86%99.png?alt=media&#x26;token=dd8dd71a-78c3-4b0f-880d-45810b93105b" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/token2022-4.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **3、填写代币参数（选填）**
 
@@ -87,7 +87,7 @@
 
 例如我填写的信息如下：
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FKb5an6Frdr4BU4RUwXRV%2F7%E9%80%89%E5%A1%AB%E5%8F%82%E6%95%B0.png?alt=media&#x26;token=32705e7a-0d47-4d8a-a07d-8fa006ee568a" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/token2022-3.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **4、高级选项**
 
@@ -117,7 +117,7 @@ Token2022代币具有极强的拓展功能，其高级选项极为复杂。我�
 
 之后我们打开自己的Phantom钱包，应该也可以看到代币的logo。（注意，有时候Phantom钱包更新的比较慢，logo可能不显示，这时候你的代币可能会显示为`未知代币`，需要等待一段时间，几个小时\~几天差不多就能更新）
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FY0aDIhexzaT2J56w5G1W%2F10Phantom%E9%92%B1%E5%8C%85.png?alt=media&#x26;token=312c6ff5-989f-4250-8409-87fcaab3efcd" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/token2022-5.jpg" alt=""><figcaption></figcaption></figure>
 
 此时，代币就算是基本创建完成了，大家可以根据需求去做池子，然后就能交易了。
 
