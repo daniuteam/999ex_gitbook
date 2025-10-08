@@ -10,7 +10,7 @@
 * [Solana创建税率代币TOken2022教程](sol/raydium/token2022.md)
 * [Solana提取手续费教程](sol/servicefee.md)
 * [Bonkfun一键发币与捆绑买入教程](sol/bonkfunfabi.md)
-* [Bonkfun批量交易/市值管理教程](sol/bonkfunshizhi.md)
+* [Bonkfun批量交易/市值管理教程](sol/raydium/bonkfunshizhi.md)
 * [PUMPFUN发币与捆绑买入教程](sol/createpump.md)
 * [PUMPFUN一键捆绑卖出教程](sol/createpumpsell.md)
 * [Solana创建预售、私募教程](sol/yushou.md)
