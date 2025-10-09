@@ -2,11 +2,11 @@
 
 BonkFun市值管理机器人，简单来说就是一个支持[LetsBonk](https://letsbonk.fun/)代币自动交易、批量交易的机器人系统，可以按照设定好的目标价格、交易次数等方式进行自动化批量买卖。
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FFPxE7ygnLVFhPdRy8OfV%2Fbonkfun%E4%BA%A4%E6%98%93%E6%9C%BA%E5%99%A8%E4%BA%BA.jpg?alt=media&#x26;token=ec323d54-a0e2-48c1-8f18-9914bb9f0749" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/bonkfunshizhi-1.jpg" alt=""><figcaption></figcaption></figure>
 
 ### BonkFun机器人使用注意
 
-1、 该机器人主要是交易BonkFun内盘代币，如果您的代币已经发射到了Raydium，请使用Raydium批量交易机器人：<https://solana.999ex.io/swapbot>
+1、 该机器人主要是交易BonkFun内盘代币，如果您的代币已经发射到了Raydium，请使用Raydium批量交易机器人：<https://www.999ex.io/swapbot>
 
 2、批量交易机器人的成功率为98%，如果失败次数较多，可以咨询客服询问原因
 
@@ -14,7 +14,7 @@ BonkFun市值管理机器人，简单来说就是一个支持[LetsBonk](https://
 
 ### BonkFun机器人使用教程
 
-在999ex.io Tool打开批量交易/市值管理机器人页面：<https://solana.999ex.io/swapbotBonk> ，需要进行以下操作
+在999ex.io Tool打开批量交易/市值管理机器人页面：<https://www.999ex.io/swapbotBonk> ，需要进行以下操作
 
 <figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FuA2yO0plb0ZSxy6y5sAz%2F1%E6%80%BB%E8%A7%88%E9%A1%B5%E9%9D%A2.png?alt=media&#x26;token=052d9a5b-e733-4c0c-a433-b9fc056dd5d7" alt=""><figcaption></figcaption></figure>
 
