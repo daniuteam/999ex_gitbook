@@ -10,7 +10,7 @@
 * **第二种：**&#x673A;器人卖。通过我们的机器人可以自动化卖出，省去了手动操作的麻烦，但是速度跟不上
 * **第三种：**&#x5F52;集后卖。将代币归集到一个地址后统一卖出。听起来比较合适，但也是麻烦，多了一步归集的操作
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FbDgCYoCEDBMjAFi6aSsC%2FPUMP%E6%8D%86%E7%BB%91%E5%8D%96%E5%87%BA.jpg?alt=media&#x26;token=125a0cc4-f200-482c-b97a-e8bdfe275e56" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/createpumpsell-1.jpg" alt=""><figcaption></figcaption></figure>
 
 基于此，我们开发了一键捆绑卖出的功能，导入钱包私钥后，即可**一次性将所有钱包内的相关代币全部卖出。**&#x76EE;前一次最多支持15个地址，如果钱包比较多，可以多导入几次。
 
@@ -18,7 +18,7 @@
 
 #### 1、配置卖出参数
 
-我们打开999ex.io Tool的一键卖出工具：<https://solana.999ex.io/sellpump> ，或者在官网导航栏找到捆绑卖出的按钮
+我们打开999ex.io Tool的一键卖出工具：<https://www.999ex.io/sellpump> ，或者在官网导航栏找到捆绑卖出的按钮
 
 <figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2F0e5Do2qKWFjFvpPmIawl%2F1-%E6%8D%86%E7%BB%91%E5%8D%96%E5%87%BA.png?alt=media&#x26;token=0f31af3e-37d6-4531-a38e-24be72a9341b" alt=""><figcaption></figcaption></figure>
 
