@@ -24,7 +24,7 @@ Solana市值管理机器人，简单来说就是一个支持自动交易、批�
 
 ### 市值管理使用教程
 
-打开市值管理机器人页面：[https://solana.999ex.io/swapbot](https://solana.999ex.io/swapbot)，选择你需要使用的版本：**Raydium**
+打开市值管理机器人页面：[https://www.999ex.io/swapbot](https://www.999ex.io/swapbot)，选择你需要使用的版本：**Raydium**
 
 <figure><img src="../.gitbook/assets/raydium市值管理.png" alt=""><figcaption></figcaption></figure>
 
