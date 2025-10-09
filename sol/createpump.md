@@ -21,7 +21,7 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 
 ### 1、连接幻影钱包Phantom（老手忽略） <a href="#id-1-lian-jie-huan-ying-qian-bao-phantom" id="id-1-lian-jie-huan-ying-qian-bao-phantom"></a>
 
-首先，我们打开PUMP发币链接：[https://solana.999ex.io/createpump](https://solana.999ex.io/createpump)，点击右上角“选择钱包”
+首先，我们打开PUMP发币链接：[https://www.999ex.io/createpump](https://www.999ex.io/createpump)，点击右上角“选择钱包”
 
 <figure><img src="../.gitbook/assets/1-连接钱包 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -61,7 +61,7 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 
 可根据需要填写一些链接参数，该内容可填可不填，且发币完成后不可修改
 
-<figure><img src="../.gitbook/assets/6-选填参数.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/createpump-1.jpg" alt=""><figcaption></figcaption></figure>
 
 * **官网链接：**您的代币官网
 * **Telegram：**您的代币电报群组链接
@@ -73,7 +73,7 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 
 平台的发币费用是0.05sol，算上gas、jito等费用，最多钱包里有0.1sol就可以。
 
-<figure><img src="../.gitbook/assets/7-创建代币.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/createpump-2.jpg" alt=""><figcaption></figcaption></figure>
 
 如果您还有捆绑买入的需求，我们再进行下一步
 
