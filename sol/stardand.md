@@ -36,7 +36,7 @@ description: 基于Solana的最全一键发币教程
 
 完成钱包链接之后，接下来需要填写代币参数，具体有如下几项：
 
-<figure><img src="../.gitbook/assets/参数填写.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stardand-1.jpg" alt=""><figcaption></figcaption></figure>
 
 **必填部分**
 
@@ -57,13 +57,13 @@ description: 基于Solana的最全一键发币教程
 
 例如我填写的信息如下
 
-<figure><img src="../.gitbook/assets/参数1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stardand-2.jpg" alt=""><figcaption></figcaption></figure>
 
 这个代币的名字就叫999exTool，除了Discord没有填之外，其他都填了。标签是默认的5个，大家可也可以根据自己需要删除或者增加。
 
 确定好信息无误之后，点击“立即创建”按钮，这时候会跳出Phantom钱包，确认并支付费用即可，如下所示：
 
-<figure><img src="../.gitbook/assets/付款页面.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stardand-4.jpg" alt=""><figcaption></figcaption></figure>
 
 等待几秒钟之后，会弹出一个页面提示你代币创建成功。（注意：代币是否创建成功以扣费为准，只要扣费了就肯定成功，只要没成功就肯定没扣费）
 
@@ -71,7 +71,7 @@ description: 基于Solana的最全一键发币教程
 
 然后我们通过Sol浏览器([https://solscan.io/](https://solscan.io/))查询，看到代币的logo和详细信息（代币简介一般不会在浏览器显示，会在Birdeye等平台显示）
 
-<figure><img src="../.gitbook/assets/浏览器显示.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stardand-3.jpg" alt=""><figcaption></figcaption></figure>
 
 此时我们打开自己的Phantom钱包，应该也可以看到代币的logo。（注意，有时候Phantom钱包更新的比较慢，logo可能不显示，这时候你的代币可能会显示为`未知代币`，需要等待一段时间，几个小时或几天差就能更新）
 
