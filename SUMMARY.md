@@ -7,7 +7,7 @@
 ## Sol链发币 <a href="#sol" id="sol"></a>
 
 * [Solana一键发币教程](sol/stardand.md)
-* [Solana创建税率代币TOken2022教程](sol/raydium/token2022.md)
+* [Solana创建税率代币Token2022教程](sol/raydium/token2022.md)
 * [Solana提取手续费教程](sol/servicefee.md)
 * [Bonkfun一键发币与捆绑买入教程](sol/bonkfunfabi.md)
 * [Bonkfun批量交易/市值管理教程](sol/raydium/bonkfunshizhi.md)
