@@ -59,7 +59,7 @@ description: 基于Solana的最全一键发币教程
 
 <figure><img src="../.gitbook/assets/stardand-2.jpg" alt=""><figcaption></figcaption></figure>
 
-这个代币的名字就叫999exTool，除了Discord没有填之外，其他都填了。标签是默认的5个，大家可也可以根据自己需要删除或者增加。
+这个代币的名字就叫999ex，除了Discord没有填之外，其他都填了。标签是默认的5个，大家可也可以根据自己需要删除或者增加。
 
 确定好信息无误之后，点击“立即创建”按钮，这时候会跳出Phantom钱包，确认并支付费用即可，如下所示：
 
@@ -78,7 +78,7 @@ description: 基于Solana的最全一键发币教程
 此时，代币就算是基本创建完成了，大家可以根据需求去做池子，然后就能交易了。
 
 * Raydium加池教程：[https://help.999ex.io/sol/raydium](https://help.999ex.io/sol/raydium)
-* 创建稳定池CLMM教程：[https://help.999ex.io/sol/solana-chuang-jian-raydium-clmm-wen-ding-chi-jiao-cheng](https://help.999ex.io/sol/solana-chuang-jian-raydium-clmm-wen-ding-chi-jiao-cheng)
+* 创建稳定池CLMM教程：[https://help.999ex.io/sol/raydiumclmm](https://help.999ex.io/sol/raydiumclmm)
 
 ## 疑问解答
 
