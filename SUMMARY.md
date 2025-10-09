@@ -13,7 +13,6 @@
 * [Bonkfun批量交易/市值管理教程](sol/raydium/bonkfunshizhi.md)
 * [PUMPFUN发币与捆绑买入教程](sol/createpump.md)
 * [PUMPFUN一键捆绑卖出教程](sol/createpumpsell.md)
-* [Solana创建预售、私募教程](sol/raydium/yushou.md)
 * [Solana市值管理机器人教程](sol/swapbot.md)
 * [Solana创建流动性资金池教程](sol/zijinchi.md)
 * [Solana代币克隆教程](sol/raydium/kelong.md)
