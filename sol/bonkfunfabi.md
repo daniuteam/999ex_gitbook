@@ -10,7 +10,7 @@ BonkFun也叫LetsBonk，是继PumpFun之后，快速崛起的新型发射平台�
 
 ## BonkFun发币前提条件 <a href="#qian-ti-tiao-jian" id="qian-ti-tiao-jian"></a>
 
-* 电脑发币之前，请先按照好Phantom钱包，安装教程➔ <https://help.pandatool.org/sol/phantom>
+* 电脑发币之前，请先按照好Phantom钱包，安装教程➔ <https://help.999ex.io/sol/phantom>
 * 请打开梯子或加速器，以防止网络错误
 * 手机发币也使用Phantom钱包或欧易web3钱包
 
@@ -30,13 +30,13 @@ BonkFun也叫LetsBonk，是继PumpFun之后，快速崛起的新型发射平台�
 
 ### **1、打开999ex.io Tool并连接钱包**
 
-首先，我们打开999ex.io Tool的BonkFun发币页面：<https://solana.999ex.io/zh/createbonk>  ，然后在右上角连接Phantom钱包插件
+首先，我们打开999ex.io Tool的BonkFun发币页面：<https://www.999ex.io/createbonk>  ，然后在右上角连接Phantom钱包插件
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FIpfvrWs98UroKBj4iwYQ%2F1%E8%BF%9E%E6%8E%A5%E9%92%B1%E5%8C%85.png?alt=media&#x26;token=690c2648-6748-4556-8f5f-0d2e9d86ea09" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/bonkfunfabi-1.jpg" alt=""><figcaption></figcaption></figure>
 
 如果连接成功，右上角会出现钱包地址。如果连接失败，需要先下载好钱包插件才可以。Phantom钱包插件下载：<https://help.999ex.io/sol/phantom>
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FmK7oazW39KjnTuBZ7xsa%2F2%E9%92%B1%E5%8C%85%E8%BF%9E%E6%8E%A5%E6%88%90%E5%8A%9F.png?alt=media&#x26;token=65fcce11-2013-4490-9591-223193e895da" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/bonkfunfabi-2.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 如果您是使用手机发币，可以通过**OKX Web3钱包**或者**Phantom钱包**进行连接并创建代币
@@ -64,7 +64,7 @@ BonkFun也叫LetsBonk，是继PumpFun之后，快速崛起的新型发射平台�
 
 接下里，可根据需要填写一些社交链接参数，像官网、电报群之类的。该内容可填可不填，且代币创建完成后不可修改
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FNT4RbAcbVdaIhzqioNxT%252F6-%25E9%2580%2589%25E5%25A1%25AB%25E5%258F%2582%25E6%2595%25B0.png%3Falt%3Dmedia%26token%3Def444873-e9ff-42e3-9ca1-5981da35226c&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c1c1ddbd&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/bonkfunfabi-3.jpg" alt=""><figcaption></figcaption></figure>
 
 * **官网链接：**&#x60A8;的代币官网
 * **Telegram：**&#x60A8;的代币电报群组链接
@@ -74,7 +74,7 @@ BonkFun也叫LetsBonk，是继PumpFun之后，快速崛起的新型发射平台�
 
 例如我填写的所有信息如下：
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FSJlBALVpFlazsKEDNL5T%2F4%E5%8F%91%E5%B8%81%E5%8F%82%E6%95%B0.png?alt=media&#x26;token=7d36ecce-d481-4ba3-b564-17ac129de093" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/bonkfunfabi-4.jpg" alt=""><figcaption></figcaption></figure>
 
 至此，如果您没有其他的需求，就可以点击“立即创建”了。然后等待10秒左右，钱包确认，这个币就可以发出来，在LetsBonk上线交易了。
 
