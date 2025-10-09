@@ -24,7 +24,7 @@ Token2022代币的税率不是实时到账的，它是累计存储在某个地�
 
 ### 1、进入提税页面并连接钱包
 
-首先，我们需要进入提税工具的网页：[https://solana.999ex.io/zh/taxClai](https://solana.999ex.io/zh/taxClaim) 右上角连接钱包
+首先，我们需要进入提税工具的网页：[https://www.999ex.io/taxClaim](https://www.999ex.io/taxClaim) 右上角连接钱包
 
 <figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FFFbQCyc1Im8e1Mr2CX12%2F1%E9%93%BE%E6%8E%A5%E9%92%B1%E5%8C%85.png?alt=media&#x26;token=a394a1ed-fa71-4949-9e6d-6eb1e686672d" alt=""><figcaption></figcaption></figure>
 
@@ -36,7 +36,7 @@ Token2022代币的税率不是实时到账的，它是累计存储在某个地�
 
 识别出地址后，我们需要选择代币。999ex.io Tool会自动识别出您钱包内的Token2022代币，您需要选中要提取税率的代币
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FJiIUFGPlqFaxQQctYMX1%2F3%E9%80%89%E6%8B%A9%E4%BB%A3%E5%B8%81.png?alt=media&#x26;token=e18757a7-d967-4935-a69c-cd5b12bb56a2" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/servicefee-1.jpg" alt=""><figcaption></figcaption></figure>
 
 选择代币后，999ex.io Tool将自动分析出该代币的税率、提税地址以及可以提取的手续费数量
 
