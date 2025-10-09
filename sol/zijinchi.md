@@ -18,11 +18,11 @@
 
 ### 1、连接钱包（老手忽略）
 
-首先，我们通过链接打开[创建流动性](https://solana.999ex.io/createpool)的页面：<https://solana.999ex.io/createpool>  然后点击右上角连接钱包
+首先，我们通过链接打开[创建流动性](https://www.999ex.io/createpool)的页面：<https://www.999ex.io/createpool>  然后点击右上角连接钱包
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FTarz4A3ewCx58rMkfb94%2F1-%E8%BF%9E%E6%8E%A5%E9%92%B1%E5%8C%85.png?alt=media&#x26;token=3da7cd95-d1f5-487f-8574-e4b07bf1b3da" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/zijinchi-1.jpg" alt=""><figcaption></figcaption></figure>
 
-或者通过[999ex.io Tool官网](https://solana.999ex.io/)的导航栏也能找到Solana加池页面：
+或者通过[999ex.io Tool官网](https://www.999ex.io/)的导航栏也能找到Solana加池页面：
 
 <figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FqDybKYFi405PcU9GwspE%2F2-%E6%89%BE%E5%88%B0%E5%8A%A0%E6%B1%A0%E9%A1%B5%E9%9D%A2.png?alt=media&#x26;token=5b0b49db-c7a3-4a63-a800-268546d05a10" alt=""><figcaption><p>创建流动性</p></figcaption></figure>
 
@@ -65,9 +65,9 @@
 * **开盘时间：**&#x7ACB;即开盘就是加池即刻开始交易；**自定义时间**就是自己确定一个开盘时间（该时间根据您个人的当地时区来确定。如果您在新加坡，那就是新加坡时区【UTC+8】。如果您在迪拜，那就是迪拜时区【UTC+4】）
 * 捆绑买入：该功能支持开盘立即买入（即将上线）
 
-根据以上对各类参数的解释，我填写的信息如下：
+根据以上对各类参数的解释，示例填写的信息如下：
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FDxvMD1tk0UL0GHUdBIkZ%2F5-Raydium%20V2%E5%8A%A0%E6%B1%A0.png?alt=media&#x26;token=08f39d44-fe74-493c-9bff-27f94d03b2ba" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/zijinchi-5.jpg" alt=""><figcaption></figcaption></figure>
 
 确认好信息无误之后，我们点击**立即创建**按钮，此时会跳出钱包进行确认（如果提示您金额太大，可能是因为Sol余额不够或者USDT余额不够导致的）
 
@@ -97,11 +97,11 @@
 
 选择代币后，点击查询余额，如下图所示
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FGzEz9NiF53xCzzID6nyG%2F%E6%9F%A5%E8%AF%A2%E4%BD%99%E9%A2%9D.png?alt=media&#x26;token=838f531a-09c1-4c7b-95bb-c21095ef3d50" alt=""><figcaption><p>查询余额</p></figcaption></figure>
+<figure><img src="/.gitbook/assets/zijinchi-2.jpg" alt=""><figcaption><p>查询余额</p></figcaption></figure>
 
 之后需要您填写加入池子内的代币数量，以及其他一些参数
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2Fvc3G6GWx5o4TPeHtxnDH%2FCPMM%E5%8F%82%E6%95%B0.png?alt=media&#x26;token=faa0a40f-1714-4830-9308-89071f127845" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/zijinchi-3.jpg" alt=""><figcaption></figcaption></figure>
 
 * **基础代币：**&#x5C31;是你发行的代币，即土狗币，已自动选择
 * **报价代币：**&#x5C31;是价值代币，如Sol、USDT、USDC等，已自动选择
@@ -112,7 +112,7 @@
 
 确认好信息无误之后，我们点击**立即创建**按钮，此时会跳出钱包进行确认
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FEkQ06sKh7BekhpCNR2lb%2F4-%E9%92%B1%E5%8C%85%E7%A1%AE%E8%AE%A4.png?alt=media&#x26;token=1d617ef0-fc6b-49e4-b180-07cf33ef6676" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/zijinchi-4.jpg" alt=""><figcaption></figcaption></figure>
 
 钱包确认后，即可完成加池操作。
 
