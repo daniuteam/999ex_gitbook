@@ -16,7 +16,7 @@
 
 ## 创建稳定池的步骤
 
-1.打开PandaTool流动性创建页面
+1.打开999ex.io Tool流动性创建页面
 
 2.右上角连接Phantom钱包
 
@@ -32,9 +32,9 @@
 
 ### 1、打开999ex.io Tool并连接钱包
 
-首先，我们需要打开999ex.io Tool的流动性创建工具：<https://solana.999ex.io/zh/createpool> ，然后在右上角连接钱包
+首先，我们需要打开999ex.io Tool的流动性创建工具：<https://www.999ex.io/createpool> ，然后在右上角连接钱包
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FtvebXfOqj3IhPfRn25ma%2F1%E8%BF%9E%E6%8E%A5%E9%92%B1%E5%8C%85.png?alt=media&#x26;token=a8ed8db5-584a-4fc0-8968-fb250dd89104" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/raydiumclmm-4.jpg" alt=""><figcaption></figcaption></figure>
 
 此时会跳出Phantom钱包进行连接，点击之后会自动识别Phantom钱包插件，并在右上角出现你的钱包地址，这就说明钱包连接成功了
 
@@ -44,7 +44,7 @@
 
 值得注意的，999ex.io Tool支持用户创建AMM V4池、CPMM池和CLMM池三种，我们在这里选择CLMM池
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FCprWmoh0QDSVFB1mPyxO%2F3%20CLMM%E6%B1%A0.png?alt=media&#x26;token=49e2740c-b296-4c58-8676-d3e24b9af19b" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/raydiumclmm-5.png" alt=""><figcaption></figcaption></figure>
 
 之后，需要选择基础代币和报价代币
 
@@ -55,13 +55,13 @@
 注意：不管加什么池子，钱包里必须要有对应的代币才可以。加USDT的池子，钱包里要有USDT。加USDC的池子，钱包里要有USDC。数量没有要求，只要有就可以。没有的话，会一直转圈。
 {% endhint %}
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2Fdz2shqgqw8ohysPOq28M%2F4%E6%9F%A5%E8%AF%A2%E4%BD%99%E9%A2%9D.png?alt=media&#x26;token=0bb0bd60-42dd-470b-8e81-e922797fe011" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/raydiumclmm-1.jpg" alt=""><figcaption></figcaption></figure>
 
 代币确定之后，我们点击查询余额，需要输入一些其他参数
 
 ### 3、输入参数
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FiyloGPd2mMosxxu0CLyW%2F5%E8%BE%93%E5%85%A5%E5%8F%82%E6%95%B0.png?alt=media&#x26;token=2a3c96ff-7973-44e7-806e-8052b9348dc3" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/raydiumclmm-3.jpg" alt=""><figcaption></figcaption></figure>
 
 从上图可以看出，我们需要手动设置三个参数
 
@@ -79,7 +79,7 @@
 **注意：**&#x6C60;子一旦创建完成，就不支持继续添加了。而且**撤了池子，也无法再二次创建**。所以创建之前，先保证价格没有错误。
 {% endhint %}
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FUHImbtVrNpxTUJcLtzAi%2F6%20%E7%AB%8B%E5%8D%B3%E5%88%9B%E5%BB%BA.png?alt=media&#x26;token=c1369b0a-8b0b-4b1e-bc32-fe89b41736e7" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/raydiumclmm-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 5.Solana Swap交易
 
@@ -87,7 +87,7 @@
 
 具体怎么加进去呢？我们通过Solana Swp兑换一笔就可以了。
 
-进入Solana Swap官网：<https://solana.999ex.io/>
+进入Solana Swap官网：<https://www.999ex.io/>
 
 <figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FOugtBg8PSqxuZNu8eCSj%2F1111.png?alt=media&#x26;token=bc324002-0065-4e52-a68a-3d6902cac5ba" alt=""><figcaption></figcaption></figure>
 
