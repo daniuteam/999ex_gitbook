@@ -12,11 +12,11 @@ PUMP市值管理机器人，简单来说就是一个支持pump.fun内盘自动�
 
 2、 机器人交易成功率为95%，如果失败次数较多，请适当增加矿工费
 
-3、使用机器人有任何问题，可以联系：[https://t.me/tool999ex](https://t.me/xiaoba8)
+3、使用机器人有任何问题，可以联系：[https://t.me/tool999ex](https://t.me/tool999ex)
 
 ### pump.fun市值管理使用教程
 
-打开市值管理机器人页面：[https://solana.999ex.io/swapbot](https://solana.999ex.io/swapbot)，选择你需要操作的版本：PUMP
+打开市值管理机器人页面：[https://www.999ex.io/swapbot](https://www.999ex.io/swapbot)，选择你需要操作的版本：PUMP
 
 <figure><img src="../.gitbook/assets/PUMP市值管理.png" alt=""><figcaption></figcaption></figure>
 
