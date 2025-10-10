@@ -34,7 +34,7 @@
 
 该工具的使用教程其实和市值管理机器人没有太多的差别，当我们理解了原理之后就会发现非常简单。接下来，999ex.io Tool将详细给你们说明一下工具的使用流程
 
-打开新地址买入工具：<https://solana.999ex.io/zh/newbuy>，然后再按照如下流程操作
+打开新地址买入工具：<https://www.999ex.io/zh/newbuy>，然后再按照如下流程操作
 
 <figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2F8Zp7RzGbKLXC7qQ7s2Wv%2F1.%E6%B5%81%E7%A8%8B.jpg?alt=media&#x26;token=c733b1ab-fd1d-49c0-a911-416d16a4d8dd" alt=""><figcaption></figcaption></figure>
 
