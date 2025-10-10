@@ -11,11 +11,11 @@
 
 ### 1、打开PandaTool并连接钱包
 
-我们首先需要找到管理流动性的页面，大家可以在官网的→[Solana加池](https://solana.999ex.io/createpool)的菜单栏下面找到[管理流动性](https://solana.999ex.io/managepool)按钮
+我们首先需要找到管理流动性的页面，大家可以在官网的→[Solana加池](https://www.999ex.io/createpool)的菜单栏下面找到[管理流动性](https://www.999ex.io/managepool)按钮
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2F6Cs89PdENMX8T5ff30B8%2F1-%E5%B7%A5%E5%85%B7%E5%85%A5%E5%8F%A3.png?alt=media&#x26;token=b226e633-7519-4395-b56a-e5a513562bcf" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/tjldx-1.jpg" alt=""><figcaption></figcaption></figure>
 
-或者直接通过链接进入：<https://solana.999ex.io/managepool> ，找到入口后，第一步是连接钱包
+或者直接通过链接进入：<https://www.999ex.io/managepool> ，找到入口后，第一步是连接钱包
 
 <figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FBQRkMZFhrqLlp5n1wPZD%2F2-%E8%BF%9E%E6%8E%A5%E9%92%B1%E5%8C%85.png?alt=media&#x26;token=d0f2da26-030e-4e2b-993d-c544e665d480" alt=""><figcaption></figcaption></figure>
 
@@ -33,7 +33,7 @@
 
 之后会弹出钱包让您确认，可以通过钱包的代币数量变化来了解撤池信息
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FjBx2onGpeU18EOrgHJwG%2F5-%E7%A7%BB%E9%99%A4%E6%B5%81%E5%8A%A8%E6%80%A7.png?alt=media&#x26;token=86ecaf44-f50c-4476-91b6-aa93dcdc5a47" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/tjldx-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 3、添加流动性
 
@@ -51,7 +51,7 @@
 
 确定好数量之后，我们点击添加流动性按钮，此时会跳出钱包进行确认。钱包确认后，即可完成加池操作
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FPfqkpixa76jcd3B0DZgL%2F10-%E9%92%B1%E5%8C%85%E7%A1%AE%E8%AE%A4.png?alt=media&#x26;token=e939f293-99ec-4a45-811e-e16c5d6f5597" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/tjldx-3.jpg" alt=""><figcaption></figcaption></figure>
 
 至此，整个关于增加池子和撤出池子的教程就算是结束了。和创建流动性相比，增加或者撤出池子的流程还是比较简单的。
 
