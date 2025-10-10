@@ -20,7 +20,7 @@
 
 如果你是在Raydium加的池子，可以通过999ex.io Tool的流动性管理来进行烧池操作。
 
-首先，我们打开999ex.io Tool的流动性管理工具：<https://solana.999ex.io/managepool>  右上角连接钱包后，可以看到当前您添加的流动性
+首先，我们打开999ex.io Tool的流动性管理工具：<https://www.999ex.io/managepool>  右上角连接钱包后，可以看到当前您添加的流动性
 
 <figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2Fl62UvFkHJy6GtfE2i3Cn%2F%E7%83%A7%E6%B1%A0%E6%B5%81%E5%8A%A8%E6%80%A7.png?alt=media&#x26;token=6614b202-cf73-4e57-85b6-13918e17950d" alt=""><figcaption></figcaption></figure>
 
@@ -28,6 +28,6 @@
 
 <figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FFBPKzoBX6H4G6R6k6CKB%2F%E7%83%A7%E6%B1%A0%E6%AF%94%E4%BE%8B.png?alt=media&#x26;token=baa99b0a-5d1f-403f-8f59-79974f1b393c" alt=""><figcaption></figcaption></figure>
 
-整个烧池子的流程还是比较简单的，如果您不是想燃烧池子，只是想销毁代币，可以使用我们的销毁工具：<https://solana.999ex.io/burn>
+整个烧池子的流程还是比较简单的，如果您不是想燃烧池子，只是想销毁代币，可以使用我们的销毁工具：<https://www.999ex.io/burn>
 
 大家如果有其他的疑问，欢迎进入我们的电报群沟通了解：<https://t.me/tool999ex>
