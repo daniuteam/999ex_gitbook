@@ -81,7 +81,7 @@ OpenBook 市场ID的价格，取决于多种参数，包括事件队列长度、
 
 此时我们点击“立即创建”，会弹出钱包进行确认：
 
-<figure><img src="../.gitbook/assets/创建第一步.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/market-1.jpg" alt=""><figcaption></figcaption></figure>
 
 确认完成后，会有个提示告诉你代币账户创建成功，大概是这样的：
 
