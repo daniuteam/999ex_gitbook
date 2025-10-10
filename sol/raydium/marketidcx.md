@@ -8,7 +8,7 @@ OpenBook Market ID，我们一般称之为OpenBook 市场ID，是Solana生态里
 
 ### OpenBook市场ID查询教程
 
-首先，我们打开999ex.io Tool市场ID查询页面：<https://solana.999ex.io/findmarket> ，按照要求分别输入代币的合约地址，并选择相对应的底池代币
+首先，我们打开999ex.io Tool市场ID查询页面：<https://www.999ex.io/findmarket> ，按照要求分别输入代币的合约地址，并选择相对应的底池代币
 
 * **基础代币：**&#x60A8;发行的土狗币
 * **报价代币：**&#x53;ol、USDT等价值币
