@@ -46,7 +46,7 @@
 
 ### 1、找到回收租金工具
 
-我们可以通过999ex.io Tool导航栏找到租金回收工具，也可以直接通过链接进去：<https://solana.999ex.io/zh/rent>
+我们可以通过999ex.io Tool导航栏找到租金回收工具，也可以直接通过链接进去：<https://www.999ex.io/rent>
 
 <figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FVbWDEpYbZ89pwJ4cGt06%2F1.%E6%89%BE%E5%88%B0%E5%B7%A5%E5%85%B7.png?alt=media&#x26;token=2a34e066-b3e4-4414-bb5b-c898a04aae76" alt=""><figcaption></figcaption></figure>
 
