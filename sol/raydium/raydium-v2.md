@@ -2,24 +2,24 @@
 
 Raydium是SOL链上比较大的去中心化交易所，任何人都可以在上面创建流动性资金池。一旦创建了池子，它就可以立即在Raydium交换界面上交易。
 
-* 注意：Raydium做池子前，需放弃拉黑（冻结）权限，不然会创建失败。放弃权限请在此处操作→[https://solana.999ex.io/control](https://solana.999ex.io/control)
+* 注意：Raydium做池子前，需放弃拉黑（冻结）权限，不然会创建失败。放弃权限请在此处操作→[https://www.999ex.io/control](https://www.999ex.io/control)
 
 以下是Raydium做池子的教程：
 
 ## 1、获取OpenBook市场ID
 
-* 在此链接处创建OpenBook市场ID：[https://solana.999ex.io/market](https://solana.999ex.io/market)
+* 在此链接处创建OpenBook市场ID：[https://www.999ex.io/market](https://www.999ex.io/market)
 * 请注意，创建ID的费用大概在0.55~3个sol之间（每个ID只能对应一个代币对，不可重复使用）
 
 <figure><img src="../../.gitbook/assets/市场ID参数填写 (1).png" alt=""><figcaption></figcaption></figure>
 
-* **基础代币：**填写你发行的代币合约
-* **报价代币：**交易对代币，如USDT、SOL等
-* **最小订单数量：**订单簿中的`最小订单数量精度`。假如填2，那最小交易量就是0.01。假如填4，最小交易量就是0.0001。以此类推，这个事实上是精度小数位。
-* **最小价格变动：**最小价格显示/变动的`小数位数`。假如填3，代币价格以3位小数显示，如11.123。假如填5，最小代币价格以5位小数显示，如11.12345。
-* **注意：**最小订单数量+最小价格变动之和，不能超过报价代币的精度
-* **配置费用：**低配（适合一般土狗币）、中配（适合成长型代币）、标配（适合优质价值币）
-* **配置详情：**属于高级选项，新手不要打开此操作，以防出现不可预知的问题
+* **基础代币**:填写你发行的代币合约
+* **报价代币**:交易对代币，如USDT、SOL等
+* **最小订单数量**:订单簿中的`最小订单数量精度`。假如填2，那最小交易量就是0.01。假如填4，最小交易量就是0.0001。以此类推，这个事实上是精度小数位。
+* **最小价格变动**:最小价格显示/变动的`小数位数`。假如填3，代币价格以3位小数显示，如11.123。假如填5，最小代币价格以5位小数显示，如11.12345。
+* **注意**:最小订单数量+最小价格变动之和，不能超过报价代币的精度
+* **配置费用**:低配（适合一般土狗币）、中配（适合成长型代币）、标配（适合优质价值币）
+* **配置详情**:属于高级选项，新手不要打开此操作，以防出现不可预知的问题
 
 创建OpenBook市场ID后，将其复制下来存着，准备加池。如果没有及时复制ID，也可以在Sol浏览器搜索创建的哈希，在交易详情里面找到 `#7 OpenBook`，然后在#1里面的那一行，就能看到你刚刚创建的ID
 
@@ -29,7 +29,7 @@ Raydium是SOL链上比较大的去中心化交易所，任何人都可以在上�
 
 创建OpenBook市场后，将会跳转到Raydium的池子页面：[https://v2.raydium.io/pools/](https://v2.raydium.io/pools/)，页面右上角点击连接钱包，之后选择“创建池”（Create Pool）按钮
 
-<figure><img src="../../.gitbook/assets/创建池子 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/raydium-v2-1.jpg" alt=""><figcaption></figcaption></figure>
 
 点击之后，输入已经获得的OpenBook市场ID
 
@@ -83,7 +83,7 @@ Raydium是SOL链上比较大的去中心化交易所，任何人都可以在上�
 
 5）创建池子出现提示“base token freeze authority enabled”怎么办？
 
-* 答：该提示是说，你的代币没有放弃`冻结权限`，请使用弃权工具将权限放弃：[https://solana.999ex.io/control](https://solana.999ex.io.org/control)
+* 答：该提示是说，你的代币没有放弃`冻结权限`，请使用弃权工具将权限放弃：[https://www.999ex.io/control](https://www.999ex.io.org/control)
 
 6）创建池子出现提示“base lot size is zero”怎么办？
 
