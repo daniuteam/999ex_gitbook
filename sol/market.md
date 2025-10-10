@@ -6,7 +6,7 @@ description: 支付更少的费用创建市场ID
 
 如果你要在Raydium上创建一个流动性资金池，必须先有一个OpenBook Market ID才可以。这个市场ID通常会在Raydium页面进行创建，但是创建成本高达3\~4个Sol，对于很多人来说，这是很难接受的。
 
-基于这个需求，PandaTool开发出了低成本创建市场ID的工具，成本最低只需要0.55Sol左右。
+基于这个需求，999ex.io Tool开发出了低成本创建市场ID的工具，成本最低只需要0.55Sol左右。
 
 ## 什么是OpenBook？
 
@@ -24,11 +24,11 @@ Openbook Market ID是一个独特的ID，允许您的代币在defi平台上进�
 
 ## ID成本为什么有高有低？
 
-PandaTool提供ID创建渠道，大致分为3个档位：**0.55Sol、1.58Sol、3Sol**。
+999ex.io Tool提供ID创建渠道，大致分为3个档位：**0.55Sol、1.58Sol、3Sol**。
 
 OpenBook 市场ID的价格，取决于多种参数，包括事件队列长度、请求队列长度、Orderbook队列长度等。你可以不需要理解这些词汇，但需要知道的是：**ID创建价格越高，你的代币交易就丝滑，越不容易出问题。**
 
-当你通过Raydium创建ID时，它会自动帮助你设置最佳的条件参数。但是通过PandaTool的工具进行ID创建，我们会给予你多种参数选择，以便你可以降低自己的ID创建费用。
+当你通过Raydium创建ID时，它会自动帮助你设置最佳的条件参数。但是通过999ex.io Tool的工具进行ID创建，我们会给予你多种参数选择，以便你可以降低自己的ID创建费用。
 
 这些参数影响，可能集中在：多笔交易同时发生时可能产生的拥堵问题、代币价格波动较大时造成的滑点异常等等，这些因素就会导致一些用户在交易时出现失败的情况。
 
@@ -40,7 +40,7 @@ OpenBook 市场ID的价格，取决于多种参数，包括事件队列长度、
 
 ### 1.链接钱包
 
-首先，我们打开PandaTool的ID创建工具页面[https://solana.999ex.io/market](https://solana.999ex.io/market)，右上角点击连接钱包（如果已经连接，则忽略此步骤）
+首先，我们打开999ex.io Tool的ID创建工具页面[https://www.999ex.io/market](https://solana.999ex.io/market)，右上角点击连接钱包（如果已经连接，则忽略此步骤）
 
 <figure><img src="../.gitbook/assets/选择钱包 (8).png" alt=""><figcaption><p>选择钱包</p></figcaption></figure>
 
