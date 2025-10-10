@@ -12,19 +12,19 @@ CPMM是Raydium最新推出的一个流动性产品，具有以下特点：
 
 我们打开Raydium的官网：<https://raydium.io/liquidity-pools/>，点击右边的`创建`按钮
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2F6WDax2cGwL3nfF3tT2YM%2F%E5%88%9B%E5%BB%BA%E6%B1%A0.png?alt=media&#x26;token=6b0b3519-3781-464c-845b-476924b2a0e8" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/readme-1.jpg" alt=""><figcaption></figcaption></figure>
 
 打开之后，选择**标准AMM池**，然后继续下一步
 
 * 集中池创建麻烦，且价格不能波动太大，所以一般我们推荐创建标准AMM池
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2F5k4P6N0Sl51S4e092l8l%2F%E6%A0%87%E5%87%86AMM%E6%B1%A0.png?alt=media&#x26;token=e69cc612-9a56-439a-ad75-8f0616d40008" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/readme-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 2、确定价格和比例
 
 在新的页面，我们需要填写相应的代币与数量，进行流动性创建
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2F6KnkbCStHVgrr3mZew4B%2F%E4%BB%A3%E5%B8%81%E6%95%B0%E9%87%8F%E4%B8%8Esol%E6%95%B0%E9%87%8F.png?alt=media&#x26;token=da6f30d7-f139-4fee-8cce-d9800dfbe7f0" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/readme-3.jpg" alt=""><figcaption></figcaption></figure>
 
 * **代币数量：**&#x4F60;要添加到池子里面的代币数量（你发行的代币）
 * **Sol数量：**&#x4F60;的交易对代币（报价代币）
@@ -33,19 +33,19 @@ CPMM是Raydium最新推出的一个流动性产品，具有以下特点：
 
 例如我填好的，类似于下面这样：
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2F9pAHjRwBs3WTNzWpkWTV%2F%E5%BC%80%E7%9B%98%E6%97%B6%E9%97%B4.png?alt=media&#x26;token=4277bae9-bc6b-4cab-86e8-14e5d67055fa" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/readme-4.jpg" alt=""><figcaption></figcaption></figure>
 
 关于开盘时间这一块，在设置的时候，Raydium很人性化的给予了自动转换时区的功能，UTC时间与北京时间自动转换，所以设置起来就比较方便了，例如下面这样
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2F3xlE48Jt5OR19IP11nyY%2F%E6%97%B6%E9%97%B4%E8%AE%BE%E7%BD%AE.png?alt=media&#x26;token=a5b2a29f-5996-42cb-b848-962a30f3ef03" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/readme-5.jpg" alt=""><figcaption></figcaption></figure>
 
 确定好没问题之后，点击初始化流动性，钱包确认支付费用就可以了。（注：加池手续费大概0.2sol左右）
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FBrFiZays0USC6APTy5NE%2Fsol%E9%92%B1%E5%8C%85%E7%A1%AE%E8%AE%A4.png?alt=media&#x26;token=5f5b599b-8250-4b7c-a5da-1c4acf454417" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/readme-6.jpg" alt=""><figcaption></figcaption></figure>
 
 池子创建成功后，会有个提示给你，如下图所示
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FftiqeDrAALn7p53AUnb4%2F%E6%B1%A0%E5%AD%90%E5%88%9B%E5%BB%BA%E6%88%90%E5%8A%9F.png?alt=media&#x26;token=342670d1-a14a-46f4-9ce2-41c4adb5620c" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/readme-7.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 4、撤池子
 
@@ -53,13 +53,13 @@ CPMM是Raydium最新推出的一个流动性产品，具有以下特点：
 
 我们打开Raydium，找到`我的投资组合`，页面链接：<https://raydium.io/portfolio/> 选择标准流动池，就能看到自己的池子了
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FpcHa3LHnubNQKBpzRgzg%2F%E6%92%A4%E6%B1%A0%E5%AD%90%E6%8C%89%E9%92%AE.png?alt=media&#x26;token=79e5476c-11ef-4f40-95b0-71a837740cb6" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/readme-8.jpg" alt=""><figcaption></figcaption></figure>
 
 * 注：如果你设置了开盘时间，那要等到开盘后，才能看到池子
 
 此时，如果你想撤池子，选择那个“-”按钮就可以了，如下所示：
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FeDxvdect4BFgWgf0iIXs%2F%E6%92%A4%E6%B1%A0%E5%AD%90%E6%AF%94%E4%BE%8B.png?alt=media&#x26;token=c2319054-5152-424a-859e-75d252f1d6df" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/readme-9.jpg" alt=""><figcaption></figcaption></figure>
 
 选择你要撤池子的比例，点击`移除流动性`，然后钱包确认，就可以了
 
