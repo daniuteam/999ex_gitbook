@@ -9,7 +9,7 @@
 
 * 答：LP本身也是一个代币。当您在创建流动性的时候，Raydium会给你发放一些LP代币作为凭证（类似于：银行存单）。以后你去撤池子，钱包就会自动将LP转给Raydium销毁掉，然后Raydium就让你把流动性撤出。所以，它是一个流动性/池子凭证。
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2F3FoW68yyXZZEMJwnUrLG%2FLp.png?alt=media&#x26;token=4d4eeae5-43e1-4808-80f8-ddbfe25ed50a" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/burn-1.jpg" alt=""><figcaption></figcaption></figure>
 
 **2、销毁LP又是什么意思？**
 
