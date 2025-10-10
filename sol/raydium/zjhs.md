@@ -48,7 +48,7 @@
 
 我们可以通过999ex.io Tool导航栏找到租金回收工具，也可以直接通过链接进去：<https://www.999ex.io/rent>
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FVbWDEpYbZ89pwJ4cGt06%2F1.%E6%89%BE%E5%88%B0%E5%B7%A5%E5%85%B7.png?alt=media&#x26;token=2a34e066-b3e4-4414-bb5b-c898a04aae76" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/zjhs-1.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 2、连接钱包并查询
 
@@ -78,7 +78,7 @@
 
 选择好要回收的账户类型后，点击“确认回收”按钮，此时会弹出钱包进行确认，钱包确认后等待几秒钟，即可完成租金回收的工作
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FKP02dyztKhYLSYfU5MtY%2F7.%E9%92%B1%E5%8C%85%E7%A1%AE%E8%AE%A4.png?alt=media&#x26;token=fe7ce035-3c1a-4b35-97d8-a2ac91d01c49" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/zjhs-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ## 批量回收租金
 
@@ -106,7 +106,7 @@
 
 选择好之后，我们点击“确认回收”按钮，弹出钱包确认即可完成
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FqGmIrVoUk4iQ5N6vz9w6%2F11.%E7%A1%AE%E8%AE%A4%E5%9B%9E%E6%94%B6.png?alt=media&#x26;token=7695e2a7-877d-4d94-93ab-979d6ebd6339" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/zjhs-3.jpg" alt=""><figcaption></figcaption></figure>
 
 ## 租金回收疑问解答
 
