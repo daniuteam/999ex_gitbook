@@ -16,7 +16,6 @@
 * [Solana市值管理机器人教程](sol/swapbot.md)
 * [Solana创建流动性资金池教程](sol/zijinchi.md)
 * [Solana代币克隆教程](sol/raydium/kelong.md)
-* [Solana创建靓号代币教程](sol/raydium/lianghao.md)
 * [Solana创建Raydium CLMM稳定池教程](sol/raydium/raydiumclmm.md)
 * [Solana添加/移除流动性教程](sol/raydium/tjycliudong.md)
 * [Solana烧池子教程](sol/raydium/scz.md)
