@@ -8,7 +8,7 @@ description: 可根据需求更新代币链接
 
 ### 第一步：判断更新权限
 
-首先，打开网页[https://solana.999ex.io/upload](https://solana.999ex.io/upload)，右上角先连接上钱包，然后输入代币合约地址，点击查询后，可能会有三种展示结果：
+首先，打开网页[https://www.999ex.io/upload](https://www.999ex.io/upload)，右上角先连接上钱包，然后输入代币合约地址，点击查询后，可能会有三种展示结果：
 
 #### 1.当前钱包无权更新代币地址
 
@@ -34,26 +34,26 @@ description: 可根据需求更新代币链接
 
 在搞定权限问题后，我们按照要求填写代币更新后的全称、简称、头像等，具体如下：
 
-* **全称：**更新后的代币全称（最多15个字符）
-* **简称：**更新后的代币简称（最多15个字符）
-* **logo：**上传最新的代币logo（图片小于100k，尺寸建议256x256像素）
+* 全称：更新后的代币全称（最多15个字符）
+* 简称：更新后的代币简称（最多15个字符）
+* logo：上传最新的代币logo（图片小于100k，尺寸建议256x256像素）
 
 **选填内容**
 
-* **官网链接：**不填，更新后就没有网址。填了，就以这次填的为准
-* **Telegram群组：**不填，就更新后没有电报。填了，就以这次填的为准
-* **Twitter链接：**不填，就更新后没有推特。填了，就以这次填的为准
-* **Discord链接：**不填，就更新后没有Discrod。填了，就以这次填的为准
-* **简介：**不能超过200个汉字（或200个英文字母）
-* **标签：**最多支持5个。默认会给你写5个，觉得哪个不合适，直接删掉自己创建一个就可以
+* 官网链接：不填，更新后就没有网址。填了，就以这次填的为准
+* Telegram群组：不填，就更新后没有电报。填了，就以这次填的为准
+* Twitter链接：不填，就更新后没有推特。填了，就以这次填的为准
+* Discord链接：不填，就更新后没有Discrod。填了，就以这次填的为准
+* 简介：不能超过200个汉字（或200个英文字母）
+* 标签：最多支持5个。默认会给你写5个，觉得哪个不合适，直接删掉自己创建一个就可以
 
 例如按照以下方式填写：
 
-<figure><img src="../.gitbook/assets/FireShot Capture 021 - PandaTool - Solana- Upload Metadata - solana.pandatool.org.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/upload-2.jpg" alt=""><figcaption></figcaption></figure>
 
 确认无误后点击“更新资料”的按钮，然后会弹出钱包，确认支付费用（大概0.1sol），几秒钟后即可完成更新
 
-<figure><img src="../.gitbook/assets/更新资料确认.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/upload-1.jpg" alt=""><figcaption></figcaption></figure>
 
 等待几秒钟，会给你一个提示显示更新完成。（注意：如果你被扣费了，但是却提示你没有更新成功，这有可能是前端提示错误。**不要**点击重试，先去Solana浏览器搜一下合约地址看看是不是更新了。一般来说，**扣费成功就说明资料更新**了，那个提示就不要管了了）
 
@@ -61,11 +61,11 @@ description: 可根据需求更新代币链接
 
 大家可以发现，在钱包里，代币的logo和名称都不一样了
 
-<figure><img src="../.gitbook/assets/图1对比.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/upload-3.jpg" alt=""><figcaption></figcaption></figure>
 
 通过浏览器查询，同样可以发现变化。在合约地址不变的情况下，网址、标签均发生了改变，推特/电报由于没有填写，也消失了：
 
-<figure><img src="../.gitbook/assets/浏览器显示 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/upload-4.jpg" alt=""><figcaption></figcaption></figure>
 
 * **注意：**代币资料更新，理论上可以无限次更新。但是为了项目的长久运行，建议大家谨慎操作
 
