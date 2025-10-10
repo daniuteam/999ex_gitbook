@@ -14,7 +14,7 @@
 * **多链一致性**：通过 CREATE2 类似机制（如 Solana 的派生地址），可在不同链部署相同地址的合约，简化跨链集成
 * **技术象征**：体现开发者对链上机制的掌握，提升社区信任度
 
-<figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FfHzQmQl0t29igz9MIJFB%2FSolana%E9%9D%93%E5%8F%B7%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80.jpg?alt=media&#x26;token=97e13a36-98dc-4705-8f88-bddf07169bfe" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/lhqb-1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## **二、Solana靓号生成流程**
 
@@ -36,9 +36,9 @@
 
 创建Solana靓号地址，我们一般需要999ex.io Tool这样的免费第三方工具来完成。
 
-### **1、打开PandaTool**
+### **1、打开999ex.io Tool**
 
-首先，我们在手机或者电脑上打开999ex.io Tool，找到专门用于生成靓号合约的工具页面：<https://solana.999ex.io/vanityAddress>
+首先，我们在手机或者电脑上打开999ex.io Tool，找到专门用于生成靓号合约的工具页面：<https://www.999ex.io/vanityAddress>
 
 <figure><img src="https://1885923539-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnmLBiMxr5iATgeZGW8in%2Fuploads%2FCFtNDKFxXGi1tmd7bUOJ%2F1.%E8%BF%9B%E5%85%A5pandatool.png?alt=media&#x26;token=f0edd3a3-1124-41a8-ba82-71a9be175718" alt=""><figcaption></figcaption></figure>
 

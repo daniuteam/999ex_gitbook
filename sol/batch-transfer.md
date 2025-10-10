@@ -14,7 +14,7 @@ description: Solana最强批量空投/转账工具
 
 ### 一、连接幻影钱包Phantom
 
-首先，我们打开批量转账页面[https://solana.999ex.io/multisend](https://solana.999ex.io/multisend)：，点击右上角“选择钱包”
+首先，我们打开批量转账页面[https://www.999ex.io/multisend](https://www.999ex.io/multisend)：，点击右上角“选择钱包”
 
 <figure><img src="../.gitbook/assets/选择钱包 (7).png" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ description: Solana最强批量空投/转账工具
 
 当你确认好发送的地址以及金额数量都没错后，点击“发送交易”，此时会弹出钱包让你进行交易确认，点击确认即可完成
 
-<figure><img src="../.gitbook/assets/批量转账-钱包确认.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/batch-1.jpg" alt=""><figcaption></figcaption></figure>
 
 如果出现提示为“交易太大请减少地址数”，说明整个交易的信息超过了Solana的哈希最大值，这个时候需要减少地址数量。11个地址并不是最佳地址，正常8\~9个地址就可以
 
